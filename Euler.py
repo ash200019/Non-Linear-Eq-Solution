@@ -1,9 +1,6 @@
 #Euler's Method
 
-#Name: Rejoy Chakraborty
-#Sem: V 	Subject: Computer Science
-#Subject: Numerical Methods (DSE-I)
-#Roll No: 717
+
 
 def func(x,y):
 	return (3*(x**2)) + 1
