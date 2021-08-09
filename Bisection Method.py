@@ -1,9 +1,5 @@
 #Bisection Methods
 
-#Name: Rejoy Chakraborty
-#Sem: V 	Subject: Computer Science
-#Subject: Numerical Methods (DSE-I)
-#Roll No: 717
 
 	def main():
 		eq = "(x^2)-3"
