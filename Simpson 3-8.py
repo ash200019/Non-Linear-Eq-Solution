@@ -1,9 +1,6 @@
 #Simpson's 1/3 Rule
 
-#Name: Rejoy Chakraborty
-#Sem: V 	Subject: Computer Science
-#Subject: Numerical Methods (DSE-I)
-#Roll No: 717
+
 
 import numpy as np
 
