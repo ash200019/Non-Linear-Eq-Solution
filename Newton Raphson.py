@@ -1,9 +1,6 @@
 #Newton Raphson Methods
 
-#Name: Rejoy Chakraborty
-#Sem: V 	Subject: Computer Science
-#Subject: Numerical Methods (DSE-II)
-#Roll No: 717
+
 
 from sympy  import *
 
