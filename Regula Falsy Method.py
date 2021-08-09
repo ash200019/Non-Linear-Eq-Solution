@@ -1,9 +1,6 @@
 #Regula Falsy Methods
 
-#Name: Rejoy Chakraborty
-#Sem: V 	Subject: Computer Science
-#Subject: Numerical Methods (DSE-II)
-#Roll No: 717
+
 
 def main():
 	eq = "3x^2 + 6x - 45"
