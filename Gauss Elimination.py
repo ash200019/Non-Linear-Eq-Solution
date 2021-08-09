@@ -1,9 +1,6 @@
 #Basic Gauss Elimination Methods
 
-#Name: Rejoy Chakraborty
-#Sem: V 	Subject: Computer Science
-#Subject: Numerical Methods (DSE-II)
-#Roll No: 717
+
 
 import numpy as np
 
