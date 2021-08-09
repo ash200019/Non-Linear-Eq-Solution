@@ -1,9 +1,6 @@
 #Taylor Series (Upto 3rd Order Derivative)
 
-#Name: Rejoy Chakraborty
-#Sem: V 	Subject: Computer Science
-#Subject: Numerical Methods (DSE-I)
-#Roll No: 717
+
 
 import math as m
 
