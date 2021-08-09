@@ -1,9 +1,6 @@
 #Runge-Kutta Method (Order 4)
 
-#Name: Rejoy Chakraborty
-#Sem: V 	Subject: Computer Science
-#Subject: Numerical Methods (DSE-I)
-#Roll No: 717
+
 
 def func(x,y):
 	return (x**2) + (y**2)
